@@ -1,0 +1,178 @@
+.monimg {
+  position: absolute;
+  left: 600px;
+  top: 150px;
+  img {
+    width: 600px;
+  }
+}
+.msgbox {
+  position: absolute;
+  left: 60%;
+  top: 50px;
+}
+.heading {
+  position: absolute;
+  left: 63%;
+  top: 130px;
+  z-index: 1;
+}
+.startbtn {
+  position: absolute;
+  right: 20px;
+  bottom: 50px;
+}
+.btn {
+  display: flex;
+  gap: 40px;
+  position: absolute;
+  left: 50px;
+  bottom: 100px;
+}
+.star {
+  /* position: relative; */
+}
+.topell {
+  position: absolute;
+  top: -40px;
+  right: 80px;
+}
+.topell2 {
+  position: absolute;
+  top: -40px;
+  right: -40px;
+}
+.nextbtn {
+  position: absolute;
+  right: 20px;
+  bottom: 50px;
+}
+.heading2 {
+  position: absolute;
+  left: 64%;
+  top: 110px;
+  z-index: 1;
+}
+.bana {
+  margin-bottom: -10px;
+  transform: rotate(-40deg);
+}
+.yesbtn {
+  position: absolute;
+  right: 20px;
+  bottom: 50px;
+}
+.heading3 {
+  position: absolute;
+  left: 64%;
+  top: 110px;
+  z-index: 1;
+}
+.top {
+  display: flex;
+  margin-top: 20px;
+}
+.bananabw {
+  margin-top: -20px;
+  margin-left: -80px;
+}
+.header {
+  display: flex;
+  gap: 200px;
+}
+.playbtn {
+  position: absolute;
+  right: 20px;
+  bottom: 50px;
+}
+.card3 {
+  display: flex;
+  justify-content: space-around;
+}
+.thread {
+  position: absolute;
+  top: 250px;
+  left: 250px;
+  z-index: -1;
+}
+.no {
+  position: absolute;
+  bottom: 40%;
+}
+.card1 {
+  position: absolute;
+  top: 200px;
+  left: 150px;
+}
+.card {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+.cardh1 {
+  position: absolute;
+  bottom: 35%;
+  left: 12%;
+}
+.cardh11 {
+  position: absolute;
+  bottom: 30%;
+  left: 12%;
+}
+.cardh2 {
+  position: absolute;
+  bottom: 21%;
+  left: 27%;
+}
+.cardh22 {
+  position: absolute;
+  bottom: 10%;
+  left: 27%;
+}
+.rec2 {
+  position: relative;
+}
+.card2 {
+  position: absolute;
+  top: 10px;
+  left: 80px;
+}
+.rec3 {
+  position: relative;
+}
+.card30 {
+  position: absolute;
+  top: 15px;
+  left: 30px;
+}
+.base3 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  top: 60%;
+  left: 25%;
+}
+.msgb {
+  position: absolute;
+  top: 10%;
+  left: 35%;
+}
+.acthead {
+  position: absolute;
+  top: 25%;
+  left: 28%;
+}
+.maincard {
+  display: flex;
+}
+.left {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.right {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
